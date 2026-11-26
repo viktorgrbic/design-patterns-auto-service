@@ -14,6 +14,7 @@ Each GoF design pattern is applied in a separate NetBeans project on the same do
 | Creational | Prototype | `seminarski/PR-AutoServis` |
 | Creational | Singleton | `seminarski/SI-AutoServis` |
 | Structural | Adapter | `seminarski/AD-AutoServis/AD-AutoServis` |
+| Structural | Bridge | `seminarski/BUI-AutoServis/BUI-AutoServis` |
 | Behavioral | Command | `seminarski/COMM-AutoServis/COMM-AutoServis` |
 
 ## Tech stack
