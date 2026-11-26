@@ -14,7 +14,10 @@ Each GoF design pattern is applied in a separate NetBeans project on the same do
 | Creational | Prototype | `seminarski/PR-AutoServis` |
 | Creational | Singleton | `seminarski/SI-AutoServis` |
 | Structural | Adapter | `seminarski/AD-AutoServis/AD-AutoServis` |
-| Structural | Bridge | `seminarski/BUI-AutoServis/BUI-AutoServis` |
+| Structural | Bridge | `seminarski/BR-AutoServis/BR-AutoServis` |
+| Structural | Composite | `seminarski/CO-AutoServis/CO-AutoServis` |
+| Structural | Decorator | `seminarski/DR-AutoServis/DR-AutoServis` |
+| Structural | Facade | `seminarski/FA-AutoServis/FA-AutoServis` |
 | Behavioral | Command | `seminarski/COMM-AutoServis/COMM-AutoServis` |
 
 ## Tech stack
@@ -24,7 +27,7 @@ Java, Swing, JDBC, MySQL/MariaDB, NetBeans (Ant). Libraries are included in each
 ## How to run
 
 1. Create the database with `src/MySQLDatabase/autoservis.sql`.
-2. Open the project in NetBeans and run it (main class `Client.Sef`, or `Direktor.Sef` for Builder and Command).
+2. Open the project in NetBeans and run it (main class `Client.Sef`, `Direktor.Sef` for Builder and Command, `Client.PoslovniPartner` for Facade).
 
 ## Credits
 

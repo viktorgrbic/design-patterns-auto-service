@@ -32,7 +32,7 @@ public class EkranskaForma2 extends EkranskaForma {
     private void initComponents() {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Ispitna Prijava");
+        setTitle("Nalog za servis");
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         setFocusable(false);
         setUndecorated(true);
